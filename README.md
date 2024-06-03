@@ -1,1 +1,3 @@
-<iframe src="https://gifer.com/embed/b5X" width=480 height=394.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">через GIFER</a></p>
+<div id="header" align="center">
+  <img src="https://i.gifer.com/b5X.gif" width="100"/>
+</div>
