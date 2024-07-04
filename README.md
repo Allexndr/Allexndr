@@ -52,7 +52,7 @@ Determined professional with extensive education experience since 2019. Expertis
 ### Experience
 
 **Programming Instructor**
-Computer Academy "SHAG" | Almaty
+Computer Academy "STEP" | Almaty
 Jan 2023 - Present
 - Teaching students various programming languages and essential skills for their professional growth in the IT field.
 
@@ -75,7 +75,7 @@ Nov 2022 - Present
 
 **Bachelor's in Computer Science (Ongoing)**
 International University of Information Technologies | Almaty
-2025 - Present
+2022 - Present
 - Acquiring deep knowledge and skills for a future career in the IT industry.
 
 ### Interests
