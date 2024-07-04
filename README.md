@@ -1,9 +1,11 @@
-# Александр Мурдасов
-## Преподаватель по программированию / Разработчик
+# Alexander Murdasov
+## Programming Instructor
 
-### Экспертиза
+Determined professional with extensive education experience since 2019. Expertise spans various IT disciplines, currently exploring prompt engineering and writing articles on artificial intelligence. Passionate about creating video and photo content, expanding creative horizons.
 
-- **Широкий спектр IT-дисциплин:**
+### Expertise
+
+- **Wide range of IT disciplines:**
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="20" height="20"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="20" height="20"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="20" height="20"/>&nbsp;
@@ -14,12 +16,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" title="Arduino" width="20" height="20"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" title=".NET Framework" width="20" height="20"/>&nbsp;
 
-### Контакты
+### Contact
 
 - **Email:** alxndrmurdasov@gmail.com
-- **Местоположение:** Алматы, Казахстан
+- **Location:** Almaty, Kazakhstan
 
-### Ссылки
+### Links
 
 <div id="socials" align="center">
     <a href="https://www.linkedin.com/in/alexander-murdasov-51066b204/">
@@ -36,7 +38,7 @@
     </a>
 </div>
 
-### Языки программирования
+### Programming Languages
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="40" height="40"/>&nbsp;
@@ -48,36 +50,36 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" title="Arduino" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" title=".NET Framework" width="40" height="40"/>&nbsp;
 
-### Опыт работы
+### Experience
 
-**Преподаватель по программированию**
-Компьютерная академия "ШАГ" | Алматы
-Янв 2023 - настоящее время
-- Обучение студентов различным языкам программирования и ключевым навыкам для их профессионального роста в IT-сфере.
+**Programming Instructor**
+Computer Academy "SHAG" | Almaty
+Jan 2023 - Present
+- Teaching students various programming languages and essential skills for their professional growth in the IT field.
 
-**Репетитор по предмету информатика**
-Самозанятый | Алматы
-Янв 2019 - настоящее время
-- Обучение информатике учащихся с 5 по 11 классы, индивидуальный подход, подготовка к экзаменам.
+**Computer Science Tutor**
+Self-employed | Almaty
+Jan 2019 - Present
+- Teaching computer science to students from grades 5 to 11, personalized approach, exam preparation.
 
-**Лаборант кабинета информатики**
-Школа № 121 | Алматы
-Ноя 2022 - настоящее время
-- Администрирование и поддержка технического оборудования, установка ПО.
+**Computer Lab Assistant**
+School No. 121 | Almaty
+Nov 2022 - Present
+- Administering and supporting technical equipment, software installation.
 
-**Разработчик телеграмм ботов**
-Самозанятый | Алматы
-Ноя 2022 - настоящее время
-- Разработка и поддержка индивидуальных программных решений.
+**Telegram Bots Developer**
+Self-employed | Almaty
+Nov 2022 - Present
+- Developing and supporting custom software solutions.
 
-### Образование
+### Education
 
-**Бакалавриат по направлению "Компьютерные науки" (в процессе обучения)**
-Международный университет информационных технологий | Алматы
-2025 - настоящее время
-- Получение глубоких знаний и навыков для будущей карьеры в IT-индустрии.
+**Bachelor's in Computer Science (Ongoing)**
+International University of Information Technologies | Almaty
+2025 - Present
+- Acquiring deep knowledge and skills for a future career in the IT industry.
 
-### Увлечения
+### Interests
 
-- Исследование и публикации в области ИИ.
-- Фото и видеопроизводство.
+- Research and publications in AI.
+- Photography and videography.
