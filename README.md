@@ -1,34 +1,50 @@
 # Александр Мурдасов
 ## Преподаватель по программированию
 
-- **Опыт и образование:** Опыт преподавания информатики с 2019 года. В настоящее время обучаюсь на программе компьютерных наук в Международном университете информационных технологий.
+### Опыт и образование
 
-- **Экспертиза:** Широкий спектр IT-дисциплин, включая Python, Java, C++, HTML/CSS, JavaScript, C#, Unity, Arduino.
+- **Опыт преподавания информатики с 2019 года. В настоящее время обучаюсь на программе компьютерных наук в Международном университете информационных технологий.**
 
-- **Интересы:** Активно изучаю и применяю искусственный интеллект. Увлекаюсь фотографией и видеосъемкой, созданием качественного контента.
+### Экспертиза
 
-- **Контакты:**
-  - Email: alxndrmurdasov@gmail.com
-  - Местоположение: Алматы, Казахстан
-  
-- **Ссылки:**
-  <div id="socials" align="center">
-      <a href="https://www.linkedin.com/in/alexander-murdasov-51066b204/">
-          <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-      </a>
-      <a href="https://t.me/Allexndr">
-          <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-      </a>
-      <a href="https://www.instagram.com/sane4.k/">
-          <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-      </a>
-      <a href="https://www.instagram.com/phot4.k/">
-          <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-      </a>
-  </div>
+- **Широкий спектр IT-дисциплин:**
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="20" height="20"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="20" height="20"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="20" height="20"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML/CSS" width="20" height="20"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="20" height="20"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" width="20" height="20"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" title="Unity" width="20" height="20"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" title="Arduino" width="20" height="20"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" title=".NET Framework" width="20" height="20"/>&nbsp;
 
+### Интересы
 
-- **Языки программирования:**
+- **Активно изучаю и применяю искусственный интеллект. Увлекаюсь фотографией и видеосъемкой, созданием качественного контента.**
+
+### Контакты
+
+- **Email:** alxndrmurdasov@gmail.com
+- **Местоположение:** Алматы, Казахстан
+
+### Ссылки
+
+<div id="socials" align="center">
+    <a href="https://www.linkedin.com/in/alexander-murdasov-51066b204/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://t.me/Allexndr">
+        <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    </a>
+    <a href="https://www.instagram.com/sane4.k/">
+        <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    </a>
+    <a href="https://www.instagram.com/phot4.k/">
+        <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    </a>
+</div>
+
+### Языки программирования
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="40" height="40"/>&nbsp;
@@ -39,7 +55,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" title="Unity" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" title="Arduino" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" title=".NET Framework" width="40" height="40"/>&nbsp;
-
 
 ### Опыт работы
 
