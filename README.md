@@ -89,28 +89,21 @@
 Международный университет информационных технологий | Алматы
 2025 - настоящее время
 - Получение глубоких знаний и навыков для будущей карьеры в IT-индустрии.
-
-### Навыки
-
-- Python
-- C++
-- Java
-- HTML/CSS
-- JavaScript
-- Excel
-- C#
-- Unity
-- Arduino
-- .NET Framework
-
+- 
 ### Увлечения
 
 - Исследование и публикации в области ИИ.
 - Фото и видеопроизводство.
 
-### Курсы
+## My Stat
 
-- Python, BIT Lab Academy | Окт 2019 - Дек 2019
-- Java, BIT Lab Academy | Фев 2020 - Дек 2020
-- Python Django, IT Foundation | Апр 2022
-- Prompt Engineering, Coursera | Янв 2024 - Фев 2024
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Allexndr&theme=blue_green)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Allexndr&theme=blue_green)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Allexndr&theme=blue_green)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Allexndr&theme=blue_green)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Allexndr&theme=blue_green&utcOffset=8)
+
