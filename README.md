@@ -1,9 +1,5 @@
 # Александр Мурдасов
-## Преподаватель по программированию
-
-### Опыт и образование
-
-- **Опыт преподавания информатики с 2019 года. В настоящее время обучаюсь на программе компьютерных наук в Международном университете информационных технологий.**
+## Преподаватель по программированию / Разработчик
 
 ### Экспертиза
 
@@ -17,10 +13,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" title="Unity" width="20" height="20"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" title="Arduino" width="20" height="20"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" title=".NET Framework" width="20" height="20"/>&nbsp;
-
-### Интересы
-
-- **Активно изучаю и применяю искусственный интеллект. Увлекаюсь фотографией и видеосъемкой, созданием качественного контента.**
 
 ### Контакты
 
@@ -80,11 +72,6 @@
 
 ### Образование
 
-**Аттестат об общем среднем образовании**
-Школа № 121 | Алматы
-2022
-- С отличием.
-
 **Бакалавриат по направлению "Компьютерные науки" (в процессе обучения)**
 Международный университет информационных технологий | Алматы
 2025 - настоящее время
@@ -94,12 +81,3 @@
 
 - Исследование и публикации в области ИИ.
 - Фото и видеопроизводство.
-
-## My Stat
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Allexndr&theme=blue_green)
-
-| | |
-| --- | --- |
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Allexndr&theme=blue_green) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Allexndr&theme=blue_green) |
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Allexndr&theme=blue_green) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Allexndr&theme=blue_green&utcOffset=8) |
