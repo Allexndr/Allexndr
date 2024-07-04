@@ -1,5 +1,6 @@
 # Александр Мурдасов
-## Разработчик / Преподаватель
+## Преподаватель по программированию
+
 - **Опыт и образование:** Опыт преподавания информатики с 2019 года. В настоящее время обучаюсь на программе компьютерных наук в Международном университете информационных технологий.
 
 - **Экспертиза:** Широкий спектр IT-дисциплин, включая Python, Java, C++, HTML/CSS, JavaScript, C#, Unity, Arduino.
@@ -12,11 +13,29 @@
   - Местоположение: Алматы, Казахстан
   
 - **Ссылки:**
-  - [Telegram](https://t.me/Allexndr)
-  - [Instagram](https://www.instagram.com/sane4.k/) (общий контент)
-  - [Instagram](https://www.instagram.com/phot4.k/) (фото и видео)
-  - [LinkedIn](https://www.linkedin.com/in/alexander-murdasov-51066b204/)
-  
+  - <div id="socials" align="center">
+      <a href="https://www.linkedin.com/in/alexander-murdasov-51066b204/">
+          <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      </a>
+      <a href="https://twitter.com/your-twitter-url">
+          <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+      </a>
+      <a href="https://t.me/your-telegram-url">
+          <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+      </a>
+    </div>
+
+- **Языки программирования:**
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="40" height="40"/>&nbsp;
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cpp/cpp-original.svg" title="C++" width="40" height="40"/>&nbsp;
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML/CSS" width="40" height="40"/>&nbsp;
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>&nbsp;
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" width="40" height="40"/>&nbsp;
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" title="Unity" width="40" height="40"/>&nbsp;
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" title="Arduino" width="40" height="40"/>&nbsp;
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" title=".NET Framework" width="40" height="40"/>&nbsp;
+
 ### Опыт работы
 
 **Преподаватель по программированию**
