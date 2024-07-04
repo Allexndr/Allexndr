@@ -13,17 +13,21 @@
   - Местоположение: Алматы, Казахстан
   
 - **Ссылки:**
-  - <div id="socials" align="center">
+  <div id="socials" align="center">
       <a href="https://www.linkedin.com/in/alexander-murdasov-51066b204/">
           <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
       </a>
-      <a href="https://twitter.com/your-twitter-url">
-          <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-      </a>
-      <a href="https://t.me/your-telegram-url">
+      <a href="https://t.me/Allexndr">
           <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
       </a>
-    </div>
+      <a href="https://www.instagram.com/sane4.k/">
+          <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+      </a>
+      <a href="https://www.instagram.com/phot4.k/">
+          <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+      </a>
+  </div>
+
 
 - **Языки программирования:**
   - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
