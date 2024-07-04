@@ -1,6 +1,5 @@
 # Alexander Murdasov
-## Programming Instructor
-
+## Programming teacher / developer
 Determined professional with extensive education experience since 2019. Expertise spans various IT disciplines, currently exploring prompt engineering and writing articles on artificial intelligence. Passionate about creating video and photo content, expanding creative horizons.
 
 ### Expertise
