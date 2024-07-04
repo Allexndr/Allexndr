@@ -89,16 +89,17 @@
 Международный университет информационных технологий | Алматы
 2025 - настоящее время
 - Получение глубоких знаний и навыков для будущей карьеры в IT-индустрии.
-- 
+
 ### Увлечения
 
 - Исследование и публикации в области ИИ.
 - Фото и видеопроизводство.
+
 ## My Stat
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Allexndr&theme=blue_green)
 
 | | |
 | --- | --- |
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Allexndr&theme=blue_green) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Allexndr&theme=blue_green) |
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Allexndr&theme=blue_green) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Allexndr&theme=blue_green&utcOffset=8) |
-
