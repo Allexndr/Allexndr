@@ -16,9 +16,6 @@ Determined professional with extensive education experience since 2019. Expertis
     <a href="https://t.me/Allexndr">
         <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
     </a>
-    <a href="https://www.instagram.com/sane4.k/">
-        <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-    </a>
     <a href="https://www.instagram.com/phot4.k/">
         <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
     </a>
