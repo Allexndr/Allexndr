@@ -11,7 +11,7 @@ I’m a product-oriented developer with 6+ years in IT education and software de
 - 🌍 Location: Almaty, Kazakhstan  
 
 <div id="socials" align="left">
-    <a href="https://www.linkedin.com/in/alexander-murdasov-51066b204/">
+    <a href="www.linkedin.com/in/alexmurdasov/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://t.me/Allexndr">
