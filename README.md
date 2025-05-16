@@ -1,24 +1,21 @@
 # 👋 Alexander Murdasov
 
-### Product Manager / Developer / Educator  
-I’m a product-oriented developer with 6+ years in IT education and software development, 2.5 of which I spent teaching in professional academies. My work spans product management, automation, and applied AI. I’m passionate about building tech that solves real problems — and about helping others grow through education.
+### Product Manager / QA Engineer / Educator  
+Product-focused specialist with 6+ years in IT and education. Experienced in product workflows, QA processes, and bot development. Passionate about useful automation, AI tools, and practical tech education.
 
 ---
 
 ## 📫 Contacts
 
-- 📧 Email: [alxndrmurdasov@gmail.com](mailto:alxndrmurdasov@gmail.com)  
-- 🌍 Location: Almaty, Kazakhstan  
+- 📧 [alxndrmurdasov@gmail.com](mailto:alxndrmurdasov@gmail.com)  
+- 📍 Almaty, Kazakhstan  
 
 <div id="socials" align="left">
-    <a href="www.linkedin.com/in/alexmurdasov/">
+    <a href="https://www.linkedin.com/in/alexmurdasov/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://t.me/Allexndr">
         <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-    </a>
-    <a href="https://www.instagram.com/phot4.k/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
     </a>
 </div>
 
@@ -26,84 +23,76 @@ I’m a product-oriented developer with 6+ years in IT education and software de
 
 ## 💼 Work Experience
 
-### Product Manager – LegalEn *(2025–Present)*  
-- Built and scaled a LegalTech product from MVP to monetization.  
-- Defined roadmap, led cross-functional team, improved onboarding flow.  
-- Conducted 20+ user interviews, implemented UX improvements.
+### LegalEn – Product / Operations (2025–Now)  
+- Structured internal processes (Jira, feedback, roadmap).  
+- Researched 10+ LegalTech competitors, suggested UX improvements.
 
-### Product Manager Intern – PanDev *(2025)*  
-- Developed Telegram bot simulator for virtual stock/crypto trading.  
-- Built MVP, tested hypotheses, structured educational content inside the bot.
+### PanDev – Product Intern (2025)  
+- Improved Telegram bot MVP, tested 5+ hypotheses.  
+- Attracted 150+ users through onboarding & educational content.
 
-### Programming Instructor – IT STEP Academy / MIA Education *(2023–2025)*  
-- Taught 150+ students (Python, Java, C++, JS) in structured academic programs.  
-- Created project-based learning tracks to improve retention and engagement.
+### InfoTech & Service LLP – QA Tester (2024–Now)  
+- Manual and automated testing in a large multi-product IT holding.
 
-### Telegram Bots Developer – Freelance *(2022–Present)*  
-- Delivered 10+ bots with business automation logic and CRM integration.  
-- Supported educational workflows and internal automation at IITU.
+### IT STEP / MIA Education – Instructor (2023–2025)  
+- Taught 150+ students: Python, Java, JS, C++.  
+- Developed practical, project-based courses.
 
-### Computer Science Tutor *(2019–Present)*  
-- Private tutoring (grades 5–11) for informatics and national testing (ЕНТ).  
-- Helped 100% of students enroll in tech universities with scholarships.
+### Freelance – Telegram Bot Developer (2022–Now)  
+- Built 10+ bots with APIs, CRM, automation for small teams & universities.
 
 ---
 
-## 📚 Education
+## 🎓 Education
 
-**Bachelor in Computer Science (2022–2026)**  
-International IT University (IITU), Faculty of Computer Technologies & Cybersecurity
-
----
-
-## 🧠 Skills & Stack
-
-**Product:** MVPs, UX Research, Agile/Scrum, Roadmapping, A/B Testing  
-**Dev Tools:** Python, Java, JavaScript, HTML/CSS, Git, Telegram API  
-**CRM & No-code:** amoCRM, Make.com, Tilda, NextBot  
-**Collaboration:** Jira, Notion, Figma, Slack, Canva, Miro  
-**Languages:**  
-- 🇷🇺 Russian — Native (C2)  
-- 🇬🇧 English — Intermediate (B2)  
-- 🇰🇿 Kazakh — Basic (A1)
+**BSc in Computer Science (2022–2026)**  
+International IT University (IITU), Kazakhstan
 
 ---
 
-## 📖 Courses
+## ⚙️ Skills
 
-- **Product Management** — nFactorial School (2025)  
-- **Prompt Engineering** — Coursera (2023)  
-- **Backend Development** — Django @ IT Foundation (2023)  
-- **Business Incubation** — IITU (2024)  
-- **Programming** — Java / Python @ BitLab Academy
+**Tech:** Python, Java, JavaScript, HTML/CSS, Git  
+**Product:** UX research, MVP, A/B tests, Agile  
+**QA:** Test cases, bug tracking, automation basics  
+**Tools:** Jira, Notion, Figma, Tilda, Telegram API  
+**CRM / No-code:** amoCRM, Make.com, NextBot  
+**Languages:** Russian (C2), English (B2), Kazakh (A1)
+
+---
+
+## 🧠 Courses
+
+- Product Management — nFactorial (2025)  
+- Prompt Engineering — Coursera (2023)  
+- Django Backend — IT Foundation (2023)  
+- Business Incubation — IITU (2024)  
+- Programming — BitLab (Java, Python)
 
 ---
 
 ## 📄 Publications
 
-- “**AI — Friend or Foe?**” — *Go-Viral, 2023*  
-- “**Digital Matrix: From Data Traces to Revolution**” — *Research Paper, 2024*  
-- “**AI in Religion**” — *Research Paper, 2024*
+- "AI — Friend or Foe?" — Go-Viral, 2023  
+- "Digital Matrix" — Research paper, 2024  
+- "AI in Religion" — Research paper, 2024
 
 ---
 
-## 🔍 Projects
+## 🛠️ Projects
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| **LegalEn** | AI-powered document automation for small businesses | Python, FastAPI, GitLab, Slack, Make |
-| **Trading Simulator Bot** | Telegram bot to learn investing without risk | Python, aiogram, MongoDB |
-| **CAMBUS (Pitch only)** | Smart city transport crowding predictor | ML (concept), B2G logic, demo day pitch |
-| **NeuroLearn** | Early MVP of AI-driven edtech assistant | Concept, user journey, lean canvas |
+| LegalEn | Document automation for SMEs | Python, FastAPI, Make, Slack |
+| Trading Bot | Investment simulator in Telegram | Python, aiogram, MongoDB |
+| Cambus (pitch) | Transport crowding predictor | Concept, ML logic |
+| NeuroLearn | EdTech MVP with AI elements | Idea, flow, canvas |
 
 ---
 
-## 📷 Side Interests
+## 📎 Interests
 
-- 📸 Photography & filmmaking  
-- 🤖 AI experiments & visualizations  
-- 🎙️ Public speaking & pitch presentations  
-- ✍️ Writing about prompt engineering and product culture
-
----
-
+- Photography & editing  
+- AI tools & prompt design  
+- Public speaking & pitching  
+- Writing on tech & education
