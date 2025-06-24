@@ -23,15 +23,15 @@ Product-focused specialist with 6+ years in IT and education. Experienced in pro
 
 ## 💼 Work Experience
 
-### LegalEn – Product / Operations (2025–Now)  
+### LegalEng – Product / Operations (2025–2025)  
 - Structured internal processes (Jira, feedback, roadmap).  
 - Researched 10+ LegalTech competitors, suggested UX improvements.
 
-### PanDev – Product Intern (2025)  
+### PanDev – Product Intern (2024-2025)  
 - Improved Telegram bot MVP, tested 5+ hypotheses.  
 - Attracted 150+ users through onboarding & educational content.
 
-### InfoTech & Service LLP – QA Tester (2024–Now)  
+### InfoTech & Service LLP – QA Tester (2025–Now)  
 - Manual and automated testing in a large multi-product IT holding.
 
 ### IT STEP / MIA Education – Instructor (2023–2025)  
