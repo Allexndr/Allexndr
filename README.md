@@ -26,18 +26,20 @@ Currently, I work as a **B2B Product Manager at Kcell** and lead **Neurokids**, 
 
 ---
 
-## 🌟 Featured Public Projects
+## 🌟 Featured Projects
 
 | Project | Tech Stack | Description |
 |---|---|---|
-| 🧠 **[NeuroLearn AI](https://github.com/Allexndr/neurolearn-ai)** | Python, Flask, Google Gemini API | AI-powered course generator creating structured lessons, practice tasks and curated resources. |
-| 🤖 **[Neurokids HR Bot](https://github.com/Allexndr/neurokids-ai-recruiter)** | Python, Telegram API, AI Screening | Automated candidate qualification and AI-driven resume scoring bot for HR teams. |
+| ⚔️ **[BrandWars.kz](https://github.com/Allexndr/brandwars-kz)** | React, TypeScript, 2D Canvas | Interactive 2D gamified advertising platform for Kazakhstani brands. |
+| 🥋 **[Palestra CRM](https://github.com/Allexndr/palestra-crm)** | JavaScript, SaaS, CRM | SaaS club management platform for martial arts and sports gyms. |
 | 🛡️ **[ScammerKetKz](https://github.com/Allexndr/scammerket-kz)** | TypeScript, Next.js, React | Crowdsourced anti-fraud and scam alert registry platform in Kazakhstan. |
-| 🍎 **[Saqtau Zero Waste](https://github.com/Allexndr/saqtau-zero-waste)** | TypeScript, React, Tailwind CSS | Sustainability and zero-waste platform for food and clothing redistribution. |
-| 🚚 **[FutureTransport](https://github.com/Allexndr/future-transport)** | TypeScript, React, Bootstrap | Modern transportation and cargo logistics services web platform. |
-| ☕ **[Coffee Shop Bot](https://github.com/Allexndr/coffee-shop-bot)** | Python, Telebot, Automation | Feature-rich Telegram bot for coffee shops with menu navigation, orders, and customer interaction. |
-| 🎮 **[Barsik Telegram Game](https://github.com/Allexndr/barsik-telegram-game)** | TypeScript, Telegram WebApp | Interactive Telegram WebApp mini-game with score tracking and animations. |
-| 📖 **[Qarlygash Journal](https://github.com/Allexndr/qarlygash-journal)** | TypeScript, React, Publishing | Digital scientific psychology journal and publication portal. |
+| 🤖 **[Neurokids AI Recruiter](https://github.com/Allexndr/neurokids-ai-recruiter)** | Python, Telegram API, AI Screening | Telegram bot for automated candidate screening and AI evaluation. |
+| 🎨 **[MediaVitamins](https://github.com/Allexndr/mediavitamins-agency)** | TypeScript, React, Frontend | Creative digital agency portfolio and marketing platform. |
+| 🎖️ **[Military Department Portal](https://github.com/Allexndr/military-department)** | TypeScript, React, Education | Management system for university military education department. |
+| 📈 **[VEST Mobile](https://github.com/Allexndr/vest-invest-app)** | React Native, TypeScript, FinTech | Modern wealth management and mobile investment application. |
+| 🏢 **[Greenleaf CRM Portal](https://github.com/Allexndr/greenleaf-crm-portal)** | TypeScript, CRM, Partner Portal | Partner registration, request moderation and order tracking system. |
+| 🧠 **[NeuroLearn](https://github.com/Allexndr/neurolearn-ai)** | Python, Flask, Google Gemini API | AI-powered course generator built with Flask and Google Gemini API. |
+| 👔 **[Ziggler.kz](https://github.com/Allexndr/ziggler-menswear)** | HTML, CSS, JavaScript, E-Commerce | E-commerce storefront and catalog for premium men's suits in Kazakhstan. |
 
 ---
 
