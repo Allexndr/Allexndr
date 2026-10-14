@@ -26,16 +26,18 @@ Currently, I work as a **B2B Product Manager at Kcell** and lead **Neurokids**, 
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Featured Public Projects
 
 | Project | Tech Stack | Description |
 |---|---|---|
-| 🎓 **[Talent Academy LMS](https://github.com/Allexndr/talent-academy)** | Go, Next.js, PostgreSQL, Docker, Nginx | Modern language school platform built with clean Go API and Next.js BFF architecture. |
 | 🧠 **[NeuroLearn AI](https://github.com/Allexndr/neurolearn-ai)** | Python, Flask, Google Gemini API | AI-powered course generator creating structured lessons, practice tasks and curated resources. |
-| 🤖 **[Neurokids AI Recruiter](https://github.com/Allexndr/neurokids-ai-recruiter)** | Python, Telegram API, AI Screening | Automated candidate qualification and AI-driven resume scoring bot for HR teams. |
-| ⚔️ **[BrandWars.kz](https://github.com/Allexndr/brandwars-kz)** | React, TypeScript, 2D Canvas, Gamification | Gamified interactive 2D advertising platform for Kazakhstan consumer brands. |
-| 🥋 **[Palestra CRM](https://github.com/Allexndr/palestra-crm)** | JavaScript, SaaS, CRM | End-to-end gym and martial arts sports club management system (memberships, attendance, billing). |
-| 📈 **[VEST Mobile](https://github.com/Allexndr/vest-invest-app)** | React Native, TypeScript, FinTech | Mobile investment and wealth management mobile app interface. |
+| 🤖 **[Neurokids HR Bot](https://github.com/Allexndr/neurokids-ai-recruiter)** | Python, Telegram API, AI Screening | Automated candidate qualification and AI-driven resume scoring bot for HR teams. |
+| 🛡️ **[ScammerKetKz](https://github.com/Allexndr/scammerket-kz)** | TypeScript, Next.js, React | Crowdsourced anti-fraud and scam alert registry platform in Kazakhstan. |
+| 🍎 **[Saqtau Zero Waste](https://github.com/Allexndr/saqtau-zero-waste)** | TypeScript, React, Tailwind CSS | Sustainability and zero-waste platform for food and clothing redistribution. |
+| 🚚 **[FutureTransport](https://github.com/Allexndr/future-transport)** | TypeScript, React, Bootstrap | Modern transportation and cargo logistics services web platform. |
+| ☕ **[Coffee Shop Bot](https://github.com/Allexndr/coffee-shop-bot)** | Python, Telebot, Automation | Feature-rich Telegram bot for coffee shops with menu navigation, orders, and customer interaction. |
+| 🎮 **[Barsik Telegram Game](https://github.com/Allexndr/barsik-telegram-game)** | TypeScript, Telegram WebApp | Interactive Telegram WebApp mini-game with score tracking and animations. |
+| 📖 **[Qarlygash Journal](https://github.com/Allexndr/qarlygash-journal)** | TypeScript, React, Publishing | Digital scientific psychology journal and publication portal. |
 
 ---
 
