@@ -19,8 +19,8 @@ Currently, I work as a **B2B Product Manager at Kcell** and lead **Neurokids**, 
 
 ## 🔥 Featured Open Source
 
-> **[Vibe & Product Engineering Encyclopedia (88 Chapters · Live Skill + API)](https://github.com/Allexndr/vibe-product-encyclopedia)**
-> 2+ years of real-world vibe-coding notes, DevSecOps fixes, anti-slop UI rules, and product playbooks distilled into an auto-updating `SKILL.md` + Live Knowledge API + Interactive Mind-Map at **[vibemap.murdasoft.kz](https://vibemap.murdasoft.kz)**.
+> **[Vibe & Product Engineering Encyclopedia (89 Chapters (997p) · Live Skill + API)](https://github.com/Allexndr/vibe-product-encyclopedia)**
+> 2+ years of real-world vibe-coding notes, DevSecOps fixes, anti-slop UI rules, and product playbooks distilled into an auto-updating `SKILL.md` + Live Knowledge API + Interactive Mind-Map & 1-click Telegram API Key (`@MurdaSoft_bot`) at **[vibemap.murdasoft.kz](https://vibemap.murdasoft.kz)**.
 > Drop a ⭐ Star if it helps your workflow!
 
 ---
